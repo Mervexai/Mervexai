@@ -89,30 +89,7 @@ Visit our web platform and start coding with AI immediately!
 https://app.mervexai.com
 ```
 
-### Option 2: CLI Installation
-```bash
-npm install -g mervex-ai
-mervex-ai login
-mervex-ai start
-```
-
-### Option 3: VS Code Extension
-Download from VS Code Marketplace and enable AI superpowers in your editor.
-```
-VS Code → Extensions → Search "Mervex AI" → Install
-```
-
-### Option 4: JetBrains Plugin
-Support for IntelliJ, PyCharm, WebStorm, and all JetBrains IDEs
-```
-IDE → Plugins → Browse Repositories → Search "Mervex AI" → Install
-```
-
-### Option 5: Vim/Neovim Plugin
-For terminal-based development
-```bash
-git clone https://github.com/Mervexai/vim-plugin ~/.vim/pack/plugins/start/mervex-ai
-```
+> **⏳ Note:** CLI Installation, VS Code Extension, JetBrains Plugin, and Vim/Neovim Plugin are coming soon! We're working hard to bring you these integrations. Stay tuned! 🎯
 
 ---
 
@@ -121,10 +98,10 @@ git clone https://github.com/Mervexai/vim-plugin ~/.vim/pack/plugins/start/merve
 - **[Mervex AI Core](https://github.com/Mervexai/mervex-ai-core)** - Main AI Engine
 - **[Coding Agent](https://github.com/Mervexai/coding-agent)** - Advanced Code Assistant
 - **[Web Platform](https://github.com/Mervexai/web-platform)** - Browser-based IDE
-- **[VS Code Extension](https://github.com/Mervexai/vscode-extension)** - Editor Integration
-- **[CLI Tool](https://github.com/Mervexai/cli)** - Command-line Interface
+- **[VS Code Extension](https://github.com/Mervexai/vscode-extension)** - Editor Integration (Coming Soon)
+- **[CLI Tool](https://github.com/Mervexai/cli)** - Command-line Interface (Coming Soon)
 - **[API Server](https://github.com/Mervexai/api-server)** - RESTful API
-- **[Mobile App](https://github.com/Mervexai/mobile-app)** - iOS & Android Support
+- **[Mobile App](https://github.com/Mervexai/mobile-app)** - iOS & Android Support (Coming Soon)
 
 ---
 
@@ -177,7 +154,7 @@ git clone https://github.com/Mervexai/vim-plugin ~/.vim/pack/plugins/start/merve
 - ⚡ **Uptime**: 99.99%
 - 🚀 **Average Response Time**: 87ms
 - 💻 **Supported Languages**: 50+
-- 🔌 **IDE Integrations**: 15+
+- 🔌 **IDE Integrations**: 15+ (Coming Soon)
 
 ---
 
@@ -191,6 +168,8 @@ git clone https://github.com/Mervexai/vim-plugin ~/.vim/pack/plugins/start/merve
 - 📊 Team analytics dashboard
 - 🔐 Advanced security scanning
 - 🌐 Multi-language documentation generation
+- 🖥️ Desktop Application (Windows, Mac, Linux)
+- 📦 Package Manager Integration (npm, pip, cargo, etc.)
 
 ---
 

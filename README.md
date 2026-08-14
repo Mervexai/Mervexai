@@ -12,10 +12,10 @@ Welcome to **Mervex AI** - the most advanced, free, and unlimited AI Agent & Cod
 |---------|-----------|-------------|----------|-----------------|----------|---------|
 | **Cost** | 💰 Free | 💸 Paid | 💸 Paid | 💸 Paid | 💚 Free | 💸 Paid |
 | **Usage Limits** | ♾️ Unlimited | ⏱️ Limited | ⏱️ Limited | ⏱️ Limited | ⏱️ Limited | ⏱️ Limited |
-| **AI Power** | 🔥 Advanced | ⭐ Good | ⭐ Good | ⭐⭐ Excellent | ⭐ Good | ⭐ Good |
-| **Code Generation** | ⚡ Superior | ✅ Good | ✅ Good | ✅ Excellent | ✅ Good | ✅ Good |
+| **AI Power** | 🔥 Advanced | ⭐ Good | ⭐ Good | ⭐ Good | ⭐ Good | ⭐ Good |
+| **Code Generation** | ⚡ Superior | ✅ Good | ✅ Good | ✅ Good | ✅ Good | ✅ Good |
 | **Speed** | 🚀 Lightning Fast | 🐢 Slower | 🐢 Slower | ⚡ Fast | ⚡ Fast | ⚡ Fast |
-| **Privacy** | 🔒 100% Secure | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | 🔒 Good | ⚠️ Limited |
+| **Privacy** | 🔒 100% Secure | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited |
 | **Multi-Language** | 🌐 50+ langs | 🌐 30+ langs | 🌐 25+ langs | 🌐 40+ langs | 🌐 30+ langs | 🌐 35+ langs |
 | **Offline Mode** | ✅ Yes | ❌ No | ❌ No | ❌ No | ✅ Yes | ✅ Yes |
 
